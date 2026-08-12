@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Data (keep large files out of the repo)
+data/*.csv
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+src/*.pkl
